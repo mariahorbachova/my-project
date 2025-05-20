@@ -18,3 +18,4 @@
 - `git add docs/commands-report.md` — додавання звіту до стеження.
 - `git commit -m "Add command report"` — коміт звіту.
 - `git push` — відправлення змін до віддаленого репозиторію.
+- `git merge feature/one -m "Merge feature/one into main"` — Merges feature/one into main.
