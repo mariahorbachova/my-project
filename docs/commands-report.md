@@ -1,7 +1,7 @@
 # Звіт про використані команди
 
 - `git init` — ініціалізація нового локального Git-репозиторію.
-- `git config --global user.name "mariahorbachova"` — налаштування імені користувача.
+- `git config --global user.name "MariiaHo"` — налаштування імені користувача.
 - `git config --global user.email "kievgma@gmail.com"` — налаштування email користувача.
 - `git branch -m master main` — перейменування гілки з master на main (якщо потрібно).
 - `git add README.md` — додавання файлу README.md до стеження.
